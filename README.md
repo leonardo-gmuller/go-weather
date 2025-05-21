@@ -37,7 +37,7 @@ The application uses dependency injection to keep the components loosely coupled
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/go-weather.git
+    git clone https://github.com/leonardo-gmuller/go-weather.git
     cd go-weather
     ```
 
